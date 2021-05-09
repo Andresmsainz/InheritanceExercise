@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\bin\Debug\netcoreapp3.1\InheritanceExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\InheritanceExercise\obj\Debug\netcoreapp3.1\InheritanceExercise.genruntimeconfig.cache
